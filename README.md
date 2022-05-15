@@ -1,1 +1,2 @@
-# landing_page_practice
+# Landing page
+https://deviatovae.github.io/landing_page_practice/
